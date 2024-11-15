@@ -1,0 +1,627 @@
+{
+  "users": [
+    {
+      "id": 23968779,
+      "name": "Đặng Dũng Any",
+      "email": "admin@gmail.com",
+      "status": true,
+      "password": "admin1",
+      "role": true,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQmcU2Fx3zGRm7FKHJzLHZzxWeeMaw2KvSVfMoy59aDpHNFwf8LP4LaVrFk-pT7yqdPo&usqp=CAU",
+      "phone": "0886666731",
+      "address": "Hà Nội",
+      "created_at": "14/07/2024",
+      "updated_at": "14/07/2024"
+    },
+    {
+      "id": 70982177,
+      "name": "Dũng09",
+      "email": "dungbg@gmail.com",
+      "status": true,
+      "password": "12345678",
+      "role": false,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/avatars%2F431641099_1470026293551560_8810124409997847493_n.jpg?alt=media&token=28fe3721-e1fa-468d-ba7f-cce62c272056",
+      "phone": "0886666731",
+      "created_at": "15/07/2024",
+      "cart": [],
+      "like": [],
+      "contact": [
+        {
+          "id": 443223,
+          "name": "1",
+          "phone": "0987654312",
+          "address": "Kép12",
+          "city": "Tỉnh Bắc Giang",
+          "district": "Huyện Lạng Giang",
+          "commune": "Thị trấn Kép"
+        },
+        {
+          "id": 4410588,
+          "name": "Dũngabc",
+          "phone": "0988773711",
+          "address": "1",
+          "city": "Tỉnh Yên Bái",
+          "district": "Thị xã Nghĩa Lộ",
+          "commune": "Xã Hạnh Sơn"
+        }
+      ],
+      "save": 0
+    },
+    {
+      "id": 2549246,
+      "name": "Dungvp1",
+      "email": "dungbgbg12@gmail.com",
+      "status": true,
+      "password": "123456",
+      "role": false,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/avatars%2F29dc147d-dbbd-4fc9-ba14-3e136e0d9f14.jpg?alt=media&token=4970c263-5fc5-4dc4-aeb0-c071995830c1",
+      "phone": "0987654321",
+      "created_at": "31/10/2024",
+      "cart": [],
+      "like": [
+        {
+          "id": 9661713,
+          "name": "QUẦN ĐÙI NAM GS",
+          "price": 310000,
+          "stock": 4,
+          "category": "Quần",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F169397124_2770538843259221_4113993006174162646_n.jpg?alt=media&token=fd93e7cf-ad71-46dc-81f0-c41a1c6c889a",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0
+        }
+      ],
+      "contact": [
+        {
+          "id": 6308630,
+          "name": "Dung1",
+          "phone": "0987654211",
+          "address": "1",
+          "city": "Tỉnh Lạng Sơn",
+          "district": "Huyện Chi Lăng",
+          "commune": "Xã Hữu Kiên"
+        }
+      ],
+      "save": 0
+    },
+    {
+      "id": 5214819,
+      "name": "dungvpn1",
+      "email": "dungbgbg23@gmail.com",
+      "status": true,
+      "password": "123456",
+      "role": false,
+      "avatar": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small_2x/user-profile-icon-free-vector.jpg",
+      "phone": "0971231241",
+      "address": "",
+      "created_at": "31/10/2024",
+      "cart": [],
+      "like": [],
+      "contact": [],
+      "save": 0
+    },
+    {
+      "id": 8370253,
+      "name": "dungvpn24",
+      "email": "dung9393@gmail.com",
+      "status": true,
+      "password": "123456",
+      "role": false,
+      "avatar": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small_2x/user-profile-icon-free-vector.jpg",
+      "phone": "0886666731",
+      "address": "",
+      "created_at": "01/11/2024",
+      "cart": [],
+      "like": [],
+      "contact": [],
+      "save": 0
+    },
+    {
+      "id": 8976231,
+      "name": "dung12",
+      "email": "",
+      "status": true,
+      "password": "123456",
+      "role": false,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/avatars%2F29dc147d-dbbd-4fc9-ba14-3e136e0d9f14.jpg?alt=media&token=25bc45ed-eed5-405f-bda7-9e5a026030ad",
+      "phone": "0987636251",
+      "created_at": "01/11/2024",
+      "cart": [],
+      "like": [
+        {
+          "id": 1729491,
+          "name": "Áo thun tay dài nam nữ",
+          "price": 300000,
+          "stock": 3,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-tay-dai-nu-form-rong-den.webp?alt=media&token=7ff1a913-c851-48a8-9958-ea75c8b4b493",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 1
+        }
+      ],
+      "contact": [
+        {
+          "id": 3609286,
+          "name": "dũng",
+          "phone": "0987322132",
+          "address": "h1",
+          "city": "Tỉnh Hoà Bình",
+          "district": "Huyện Kim Bôi",
+          "commune": "Xã Sào Báy"
+        },
+        {
+          "id": 6349209,
+          "name": "Dũng2",
+          "phone": "0921841413",
+          "address": "h3",
+          "city": "Tỉnh Thái Nguyên",
+          "district": "Thành phố Thái Nguyên",
+          "commune": "Phường Tân Lập"
+        }
+      ],
+      "save": 0,
+      "gmail": "dungbgbg12ttt@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 328283,
+      "name": "Áo thun chính hãng Tee Toxic ",
+      "price": 320000,
+      "stock": 1,
+      "category": "Áo",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-den-streetwear-nen-mua.webp?alt=media&token=ae7a52b2-463e-4c23-80d2-f2cdfe09fdcb",
+      "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 11
+    },
+    {
+      "id": 7178363,
+      "name": "Áo Thun MLB New Era Basic New York Yankees Black",
+      "price": 250000,
+      "stock": 3,
+      "category": "Áo",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-mlb-new-era-basic-new-york-yankees-black-13731451-1.webp?alt=media&token=0f9adef8-fe2b-40cd-8a5e-1c5cb5d1e469",
+      "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+      "created_at": "01/11/2023",
+      "comments": [],
+      "sales": 3
+    },
+    {
+      "id": 1247640,
+      "name": "Áo Polo Teelab Local Brand Unisex Special",
+      "price": 500000,
+      "stock": 0,
+      "category": "Áo",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F1-a76844f8-43b5-4ba4-8f94-08ff2f36394a-1657108711259.webp?alt=media&token=cd4e751b-3a75-40c3-9176-ac7900f755d0",
+      "description": "",
+      "created_at": "01/11/2023",
+      "comments": [],
+      "sales": 6
+    },
+    {
+      "id": 2351820,
+      "name": "Quần jean nam ống rộng ",
+      "price": 270000,
+      "stock": 6,
+      "category": "Quần",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fquan-jean-nam-ong-rong-local-brand-dep-13.webp?alt=media&token=c9391d88-ab8e-4fb9-b450-b4b3adf04a64",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 0
+    },
+    {
+      "id": 790761,
+      "name": "Quần Đùi Thể Thao,Quần Short Nam",
+      "price": 160000,
+      "stock": 3,
+      "category": "Quần",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fe18a3d95c990d1383284f0d5a04d4eb9.jpg_960x960q80.jpg_.webp?alt=media&token=c8b7beb4-9348-4461-80fb-d98f0a831d84",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 0
+    },
+    {
+      "id": 9447310,
+      "name": "Quần đùi Nam Nữ Essential Active Short",
+      "price": 220000,
+      "stock": 7,
+      "category": "Quần",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F87841613-255a-45a2-b58a-669d0ed961c4.webp?alt=media&token=b9241e76-1d6e-4a45-b117-cbd2fe83b730",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 2
+    },
+    {
+      "id": 9661713,
+      "name": "QUẦN ĐÙI NAM GS",
+      "price": 310000,
+      "stock": 4,
+      "category": "Quần",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F169397124_2770538843259221_4113993006174162646_n.jpg?alt=media&token=fd93e7cf-ad71-46dc-81f0-c41a1c6c889a",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 0
+    },
+    {
+      "id": 1729491,
+      "name": "Áo thun tay dài nam nữ",
+      "price": 300000,
+      "stock": 0,
+      "category": "Áo",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-tay-dai-nu-form-rong-den.webp?alt=media&token=7ff1a913-c851-48a8-9958-ea75c8b4b493",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 4
+    },
+    {
+      "id": 4529595,
+      "name": "Áo Thun Tay Dài Basic Essentials",
+      "price": 290000,
+      "stock": 4,
+      "category": "Áo",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fdosiin-icon-denim-ao-thun-tay-dai-basic-essentials-362709362709.webp?alt=media&token=dc761b6d-9b87-436e-89e3-d7fc772efe64",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 0
+    },
+    {
+      "id": 6302958,
+      "name": "Áo 32",
+      "price": 1000000,
+      "stock": 4,
+      "category": "Áo",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F169397124_2770538843259221_4113993006174162646_n.jpg?alt=media&token=3fd4e03e-329d-440b-a6a4-a3ece827a89e",
+      "description": "",
+      "created_at": "01/11/2024",
+      "comments": [],
+      "sales": 0
+    }
+  ],
+  "classify": [
+    {
+      "id": 45778046,
+      "name": "Áo",
+      "description": "Áo cộc, Áo dài , Áo thời trang nam nữ",
+      "status": true
+    },
+    {
+      "id": 45778047,
+      "name": "Quần",
+      "description": "Quần dài , Quần thời trang nam nữ",
+      "status": true
+    }
+  ],
+  "orders": [
+    {
+      "id": 8428444,
+      "name": "Dũng",
+      "phone": "0987652511",
+      "address": "Kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "daGui",
+      "cart": [
+        {
+          "id": 7178363,
+          "name": "Áo Thun MLB New Era Basic New York Yankees Black",
+          "price": 250000,
+          "stock": 6,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-mlb-new-era-basic-new-york-yankees-black-13731451-1.webp?alt=media&token=0f9adef8-fe2b-40cd-8a5e-1c5cb5d1e469",
+          "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0,
+          "quantity": 1
+        }
+      ],
+      "ship": 20000,
+      "payTo": "ChuyenKhoan",
+      "idUser": 2549246,
+      "created_at": "01/10/2024",
+      "sale": "MGG2"
+    },
+    {
+      "id": 8532901,
+      "name": "Dũng",
+      "phone": "0987652511",
+      "address": "Kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "daDuyet",
+      "cart": [
+        {
+          "id": 328283,
+          "name": "Áo thun chính hãng Tee Toxic",
+          "price": 320000,
+          "stock": 2,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-den-streetwear-nen-mua.webp?alt=media&token=ae7a52b2-463e-4c23-80d2-f2cdfe09fdcb",
+          "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0,
+          "quantity": 1
+        }
+      ],
+      "ship": 50000,
+      "payTo": "NhanHang",
+      "idUser": 2549246,
+      "created_at": "01/09/2024",
+      "sale": "MGG2"
+    },
+    {
+      "id": 5977923,
+      "name": "Dũng",
+      "phone": "0987652511",
+      "address": "Kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 9447310,
+          "name": "Quần đùi Nam Nữ Essential Active Short",
+          "price": 220000,
+          "stock": 9,
+          "category": "Quần",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F87841613-255a-45a2-b58a-669d0ed961c4.webp?alt=media&token=b9241e76-1d6e-4a45-b117-cbd2fe83b730",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0,
+          "quantity": 1
+        }
+      ],
+      "ship": 50000,
+      "payTo": "ChuyenKhoan",
+      "idUser": 2549246,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 4058642,
+      "name": "Dũng",
+      "phone": "0987652511",
+      "address": "Kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 1247640,
+          "name": "Áo Polo Teelab Local Brand Unisex Special",
+          "price": 500000,
+          "stock": 6,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F1-a76844f8-43b5-4ba4-8f94-08ff2f36394a-1657108711259.webp?alt=media&token=cd4e751b-3a75-40c3-9176-ac7900f755d0",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0,
+          "quantity": 1
+        }
+      ],
+      "ship": 20000,
+      "payTo": "NhanHang",
+      "idUser": 2549246,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 3348605,
+      "name": "Dung1",
+      "phone": "0987654321",
+      "address": "kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 7178363,
+          "name": "Áo Thun MLB New Era Basic New York Yankees Black",
+          "price": 250000,
+          "stock": 5,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-mlb-new-era-basic-new-york-yankees-black-13731451-1.webp?alt=media&token=0f9adef8-fe2b-40cd-8a5e-1c5cb5d1e469",
+          "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 1,
+          "quantity": 1
+        }
+      ],
+      "ship": 20000,
+      "payTo": "NhanHang",
+      "idUser": 2549246,
+      "created_at": "01/11/2024",
+      "sale": "MGG2"
+    },
+    {
+      "id": 232305,
+      "name": "Dung1",
+      "phone": "0987654321",
+      "address": "kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 9447310,
+          "name": "Quần đùi Nam Nữ Essential Active Short",
+          "price": 220000,
+          "stock": 8,
+          "category": "Quần",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F87841613-255a-45a2-b58a-669d0ed961c4.webp?alt=media&token=b9241e76-1d6e-4a45-b117-cbd2fe83b730",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 1,
+          "quantity": 1
+        }
+      ],
+      "ship": 50000,
+      "payTo": "NhanHang",
+      "idUser": 2549246,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 5561798,
+      "name": "Dung1",
+      "phone": "0987654321",
+      "address": "kép1, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 7178363,
+          "name": "Áo Thun MLB New Era Basic New York Yankees Black",
+          "price": 250000,
+          "stock": 4,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-mlb-new-era-basic-new-york-yankees-black-13731451-1.webp?alt=media&token=0f9adef8-fe2b-40cd-8a5e-1c5cb5d1e469",
+          "description": "Chất liệu: Áo được làm từ chất liệu cotton 100% cao cấp, mềm mại và thoáng khí. Cotton giúp thấm hút mồ hôi tốt, tạo cảm giác dễ chịu khi mặc cả ngày dài, phù hợp với mọi điều kiện thời tiết.",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 2,
+          "quantity": 1
+        }
+      ],
+      "ship": 50000,
+      "payTo": "NhanHang",
+      "idUser": 2549246,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 6623078,
+      "name": "1",
+      "phone": "0987654312",
+      "address": "Kép12, Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 1729491,
+          "name": "Áo thun tay dài nam nữ",
+          "price": 300000,
+          "stock": 4,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-tay-dai-nu-form-rong-den.webp?alt=media&token=7ff1a913-c851-48a8-9958-ea75c8b4b493",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 0,
+          "quantity": 1
+        }
+      ],
+      "ship": 20000,
+      "payTo": "NhanHang",
+      "idUser": 70982177,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 9332798,
+      "name": "Dũngabc",
+      "phone": "0988773711",
+      "address": "1, Xã Hạnh Sơn, Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 1247640,
+          "name": "Áo Polo Teelab Local Brand Unisex Special",
+          "price": 500000,
+          "stock": 5,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F1-a76844f8-43b5-4ba4-8f94-08ff2f36394a-1657108711259.webp?alt=media&token=cd4e751b-3a75-40c3-9176-ac7900f755d0",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 1,
+          "quantity": 1
+        }
+      ],
+      "ship": 20000,
+      "payTo": "NhanHang",
+      "idUser": 70982177,
+      "created_at": "01/11/2024",
+      "sale": ""
+    },
+    {
+      "id": 5070464,
+      "name": "Dũng2",
+      "phone": "0921841413",
+      "address": "h3, Phường Tân Lập, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+      "status": "choDuyet",
+      "cart": [
+        {
+          "id": 1247640,
+          "name": "Áo Polo Teelab Local Brand Unisex Special",
+          "price": 500000,
+          "stock": 4,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2F1-a76844f8-43b5-4ba4-8f94-08ff2f36394a-1657108711259.webp?alt=media&token=cd4e751b-3a75-40c3-9176-ac7900f755d0",
+          "description": "",
+          "created_at": "01/11/2023",
+          "comments": [],
+          "sales": 2,
+          "quantity": 4
+        },
+        {
+          "id": 1729491,
+          "name": "Áo thun tay dài nam nữ",
+          "price": 300000,
+          "stock": 3,
+          "category": "Áo",
+          "status": true,
+          "image": "https://firebasestorage.googleapis.com/v0/b/m26-upload.appspot.com/o/images%2Fao-thun-tay-dai-nu-form-rong-den.webp?alt=media&token=7ff1a913-c851-48a8-9958-ea75c8b4b493",
+          "description": "",
+          "created_at": "01/11/2024",
+          "comments": [],
+          "sales": 1,
+          "quantity": 3
+        }
+      ],
+      "ship": 50000,
+      "payTo": "NhanHang",
+      "idUser": 8976231,
+      "created_at": "01/11/2024",
+      "sale": "MA20"
+    }
+  ],
+  "sales": [
+    {
+      "id": 4577546,
+      "name": "MA20",
+      "down": 20,
+      "status": true
+    },
+    {
+      "id": 4588047,
+      "name": "MA15",
+      "down": 15,
+      "status": true
+    }
+  ]
+}
